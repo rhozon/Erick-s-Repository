@@ -16,3 +16,4 @@ if faculdade ==2 and nota>=7.0:
 elif faculdade ==2 and nota<5:
     print("Em exame")
 
+# Comentário de change adicionado pra teste
